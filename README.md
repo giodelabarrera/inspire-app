@@ -36,3 +36,9 @@ npm start
 ````
 $ open SpecRunner.html
 ````
+
+## Authors
+
+- Giorgio de la Barrera [https://github.com/giodelabarrera](https://github.com/giodelabarrera)
+- Edu Berenguer [https://github.com/eduberenguer](https://github.com/eduberenguer)
+- Kim Garcia [https://github.com/kimbali](https://github.com/kimbali)
