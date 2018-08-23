@@ -7,6 +7,8 @@ This project was developed for the presentation of frontend group projects when 
 
 Live demo [http://inspire-app.surge.sh](http://inspire-app.surge.sh)
 
+View the [documentation](./docs)
+
 ## Screenshoot
 
 ![](./screenshoot.png)
